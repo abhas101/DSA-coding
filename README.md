@@ -1,1 +1,1 @@
-This repo is a colleciton of DSA alo's that can come handy while revising some concepts again.
+This repo is a colleciton of DSA algo's that can come in handy while revising some concepts again.
