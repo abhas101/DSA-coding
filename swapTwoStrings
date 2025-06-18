@@ -1,0 +1,19 @@
+
+// Swap Two Strings
+
+public class Main {
+    public static void main(String[] args) {
+        String a="abhas";
+        String b="kumar";
+
+        System.out.println("Before swap "+"a = "+ a+ " b= "+b);
+//        logic
+//        we are going to use a temporary variable to store the value of a then swap it with b
+
+        String temp = a;
+        a = b;
+        b = temp;
+
+        System.out.println("After swap "+"a = "+ a+ " b= "+b);
+    }
+}
